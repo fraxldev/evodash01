@@ -1,0 +1,179 @@
+2025-08-13 00:06:54,044 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:06:54,044 | INFO |    Saldo attuale: 0.057400
+2025-08-13 00:06:54,044 | INFO |    Tranche attive: 1 di 78 totali
+2025-08-13 00:06:54,044 | INFO |    Capitale investito (tranche attive): 0.00 USDT
+2025-08-13 00:06:54,044 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:07:07,540 | INFO | 📋 Ordine ACQUISTO 25%: 48.27 USDT → 2858.682921 XNY [Session: session_20250813_000707]
+2025-08-13 00:07:11,100 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '2851.08408299', 'price': '0.016929', 'type': 'limit'}
+2025-08-13 00:07:19,966 | INFO | 📋 Ordine 25%: 712.051600 XNY ≈ 12.05 USDT [Session: session_20250813_000719]
+2025-08-13 00:07:30,163 | INFO | 📋 Ordine 25%: 712.051600 XNY ≈ 12.05 USDT [Session: session_20250813_000730]
+2025-08-13 00:07:36,381 | INFO | 🔥 PIAZZANDO ORDINE REALE: 712.051600 XNY @ 0.016884 USDT
+2025-08-13 00:07:36,382 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '712.0516', 'price': '0.016884', 'type': 'limit'}
+2025-08-13 00:07:37,409 | INFO | 📋 STATO ORDINE #89450488: closed
+2025-08-13 00:07:37,410 | INFO | 💰 SALDO PRIMA: 2848.206400 XNY
+2025-08-13 00:07:37,410 | INFO | 💰 SALDO DOPO: 2848.206400 XNY
+2025-08-13 00:07:42,574 | INFO | 📋 Ordine ACQUISTO 25%: 39.20 USDT → 2321.860696 XNY [Session: session_20250813_000742]
+2025-08-13 00:12:06,640 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:12:06,641 | INFO |    Saldo attuale: 2136.206400
+2025-08-13 00:12:06,641 | INFO |    Tranche attive: 1 di 80 totali
+2025-08-13 00:12:06,641 | INFO |    Capitale investito (tranche attive): 36.16 USDT
+2025-08-13 00:12:06,641 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:12:14,264 | INFO | 📋 Ordine ACQUISTO 25%: 39.20 USDT → 2336.808297 XNY [Session: session_20250813_001214]
+2025-08-13 00:12:20,315 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '2344.63492756', 'price': '0.01672', 'type': 'limit'}
+2025-08-13 00:12:39,092 | INFO | 📋 Ordine 25%: 705.030450 XNY ≈ 11.79 USDT [Session: session_20250813_001239]
+2025-08-13 00:12:43,225 | INFO | 🔥 PIAZZANDO ORDINE REALE: 705.030450 XNY @ 0.016720 USDT
+2025-08-13 00:12:43,225 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '705.03045', 'price': '0.01672', 'type': 'limit'}
+2025-08-13 00:12:44,614 | INFO | 📋 STATO ORDINE #89450703: open
+2025-08-13 00:12:44,614 | INFO | 💰 SALDO PRIMA: 2820.121800 XNY
+2025-08-13 00:12:44,614 | INFO | 💰 SALDO DOPO: 4478.461800 XNY
+2025-08-13 00:16:14,643 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:16:14,643 | INFO |    Saldo attuale: 4478.461800
+2025-08-13 00:16:14,643 | INFO |    Tranche attive: 3 di 82 totali
+2025-08-13 00:16:14,643 | INFO |    Capitale investito (tranche attive): 75.33 USDT
+2025-08-13 00:16:14,643 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:16:38,748 | INFO | 📋 Ordine 100%: 4478.461800 XNY ≈ 74.68 USDT [Session: session_20250813_001638]
+2025-08-13 00:16:41,338 | INFO | 🔥 PIAZZANDO ORDINE REALE: 4478.461800 XNY @ 0.016608 USDT
+2025-08-13 00:16:41,338 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '4478.4618', 'price': '0.016608', 'type': 'limit'}
+2025-08-13 00:29:35,208 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:29:35,208 | INFO |    Saldo attuale: 3773.461800
+2025-08-13 00:29:35,208 | INFO |    Tranche attive: 3 di 82 totali
+2025-08-13 00:29:35,208 | INFO |    Capitale investito (tranche attive): 63.39 USDT
+2025-08-13 00:29:35,208 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:30:00,937 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:30:00,937 | INFO |    Saldo attuale: 3773.461800
+2025-08-13 00:30:00,937 | INFO |    Tranche attive: 3 di 82 totali
+2025-08-13 00:30:00,937 | INFO |    Capitale investito (tranche attive): 63.39 USDT
+2025-08-13 00:30:00,937 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:34:08,351 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:34:08,352 | INFO |    Saldo attuale: 3773.461800
+2025-08-13 00:34:08,352 | INFO |    Tranche attive: 3 di 82 totali
+2025-08-13 00:34:08,352 | INFO |    Capitale investito (tranche attive): 63.39 USDT
+2025-08-13 00:34:08,352 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:34:32,190 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:34:32,191 | INFO |    Saldo attuale: 3773.461800
+2025-08-13 00:34:32,191 | INFO |    Tranche attive: 3 di 82 totali
+2025-08-13 00:34:32,191 | INFO |    Capitale investito (tranche attive): 63.39 USDT
+2025-08-13 00:34:32,191 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:36:22,920 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:36:22,920 | INFO |    Saldo attuale: 1000.000000
+2025-08-13 00:36:22,920 | INFO |    Tranche attive: 3 di 3 totali
+2025-08-13 00:36:43,270 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:36:43,271 | INFO |    Saldo attuale: 1000.000000
+2025-08-13 00:36:43,271 | INFO |    Tranche attive: 3 di 3 totali
+2025-08-13 00:36:43,271 | INFO |    Capitale investito (tranche attive): 16.00 USDT
+2025-08-13 00:36:43,271 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:41:13,667 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:41:13,667 | INFO |    Saldo attuale: 3773.461800
+2025-08-13 00:41:13,667 | INFO |    Tranche attive: 3 di 82 totali
+2025-08-13 00:41:13,667 | INFO |    Capitale investito (tranche attive): 63.39 USDT
+2025-08-13 00:41:13,667 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:44:48,084 | INFO | 📋 Ordine ACQUISTO 25%: 48.31 USDT → 2965.231333 XNY [Session: session_20250813_004448]
+2025-08-13 00:45:01,864 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '2964.50349051', 'price': '0.016296', 'type': 'limit'}
+2025-08-13 00:46:27,211 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:46:27,211 | INFO |    Saldo attuale: 1000.000000
+2025-08-13 00:46:27,211 | INFO |    Tranche attive: 3 di 3 totali
+2025-08-13 00:46:27,211 | INFO |    Capitale investito (tranche attive): 16.00 USDT
+2025-08-13 00:46:27,211 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:46:42,125 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:46:42,125 | INFO |    Saldo attuale: 1000.000000
+2025-08-13 00:46:42,125 | INFO |    Tranche attive: 3 di 3 totali
+2025-08-13 00:46:42,125 | INFO |    Capitale investito (tranche attive): 16.00 USDT
+2025-08-13 00:46:42,125 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:47:26,629 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 00:47:26,629 | INFO |    Saldo attuale: 6734.997300
+2025-08-13 00:47:26,629 | INFO |    Tranche attive: 4 di 83 totali
+2025-08-13 00:47:26,629 | INFO |    Capitale investito (tranche attive): 111.63 USDT
+2025-08-13 00:47:26,629 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:54:22,620 | INFO | 📋 Ordine 100%: 6734.997300 XNY ≈ 107.70 USDT [Session: session_20250813_005422]
+2025-08-13 01:05:15,856 | INFO | 📋 Ordine 100%: 6734.997300 XNY ≈ 109.17 USDT [Session: session_20250813_010515]
+2025-08-13 01:10:19,598 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 01:10:19,598 | INFO |    Saldo attuale: 1000.000000
+2025-08-13 01:10:19,598 | INFO |    Tranche attive: 3 di 3 totali
+2025-08-13 01:10:19,598 | INFO |    Capitale investito (tranche attive): 16.00 USDT
+2025-08-13 01:10:19,598 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 01:10:35,801 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 01:10:35,801 | INFO |    Saldo attuale: 1000.000000
+2025-08-13 01:10:35,802 | INFO |    Tranche attive: 3 di 3 totali
+2025-08-13 01:10:35,802 | INFO |    Capitale investito (tranche attive): 16.00 USDT
+2025-08-13 01:10:35,802 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 01:11:45,122 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 01:11:45,122 | INFO |    Saldo attuale: 6734.997300
+2025-08-13 01:11:45,122 | INFO |    Tranche attive: 4 di 83 totali
+2025-08-13 01:11:45,122 | INFO |    Capitale investito (tranche attive): 111.63 USDT
+2025-08-13 01:11:45,122 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 01:18:23,270 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 01:18:23,270 | INFO |    Saldo attuale: 1000.000000
+2025-08-13 01:18:23,270 | INFO |    Tranche attive: 3 di 3 totali
+2025-08-13 01:18:23,270 | INFO |    Capitale investito (tranche attive): 16.00 USDT
+2025-08-13 01:18:23,270 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 01:20:25,728 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 01:20:25,728 | INFO |    Saldo attuale: 6734.997300
+2025-08-13 01:20:25,729 | INFO |    Tranche attive: 4 di 83 totali
+2025-08-13 01:20:25,729 | INFO |    Capitale investito (tranche attive): 111.63 USDT
+2025-08-13 01:20:25,729 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 01:20:38,279 | INFO | 📋 Ordine 25%: 1683.749325 XNY ≈ 26.94 USDT [Session: session_20250813_012038]
+2025-08-13 01:27:10,882 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 01:27:10,882 | INFO |    Saldo attuale: 1000.000000
+2025-08-13 01:27:10,882 | INFO |    Tranche attive: 3 di 3 totali
+2025-08-13 01:27:10,882 | INFO |    Capitale investito (tranche attive): 16.00 USDT
+2025-08-13 01:27:10,882 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 01:28:28,861 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 01:28:28,861 | INFO |    Saldo attuale: 6734.997300
+2025-08-13 01:28:28,862 | INFO |    Tranche attive: 4 di 83 totali
+2025-08-13 01:28:28,862 | INFO |    Capitale investito (tranche attive): 111.63 USDT
+2025-08-13 01:28:28,862 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 01:35:15,414 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 01:35:15,415 | INFO |    Saldo attuale: 6734.997300
+2025-08-13 01:35:15,415 | INFO |    Tranche attive: 4 di 83 totali
+2025-08-13 01:35:15,415 | INFO |    Capitale investito (tranche attive): 111.63 USDT
+2025-08-13 01:35:15,415 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 01:42:25,755 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 01:42:25,755 | INFO |    Saldo attuale: 6734.997300
+2025-08-13 01:42:25,755 | INFO |    Tranche attive: 4 di 83 totali
+2025-08-13 01:42:25,755 | INFO |    Capitale investito (tranche attive): 111.63 USDT
+2025-08-13 01:42:25,755 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 02:00:40,970 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 02:00:40,970 | INFO |    Saldo attuale: 6734.997300
+2025-08-13 02:00:40,970 | INFO |    Tranche attive: 4 di 83 totali
+2025-08-13 02:00:40,970 | INFO |    Capitale investito (tranche attive): 111.63 USDT
+2025-08-13 02:00:40,970 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 08:52:33,136 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 08:52:33,138 | INFO |    Saldo attuale: 3081.615300
+2025-08-13 08:52:33,138 | INFO |    Tranche attive: 1 di 84 totali
+2025-08-13 08:52:33,138 | INFO |    Capitale investito (tranche attive): 38.47 USDT
+2025-08-13 08:52:33,138 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 08:53:45,394 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 08:53:45,394 | INFO |    Saldo attuale: 3081.615300
+2025-08-13 08:53:45,394 | INFO |    Tranche attive: 1 di 84 totali
+2025-08-13 08:53:45,394 | INFO |    Capitale investito (tranche attive): 38.47 USDT
+2025-08-13 08:53:45,394 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 08:59:38,867 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 08:59:38,867 | INFO |    Saldo attuale: 3081.615300
+2025-08-13 08:59:38,867 | INFO |    Tranche attive: 1 di 84 totali
+2025-08-13 08:59:38,867 | INFO |    Capitale investito (tranche attive): 38.47 USDT
+2025-08-13 08:59:38,867 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 09:00:40,974 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 09:00:40,974 | INFO |    Saldo attuale: 202.956840
+2025-08-13 09:00:40,974 | INFO |    Tranche attive: 1 di 7 totali
+2025-08-13 09:00:40,974 | INFO |    Capitale investito (tranche attive): 50.05 USDT
+2025-08-13 09:00:40,974 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 09:39:33,856 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 09:39:33,856 | INFO |    Saldo attuale: 444.166400
+2025-08-13 09:39:33,856 | INFO |    Tranche attive: 2 di 87 totali
+2025-08-13 09:39:33,856 | INFO |    Capitale investito (tranche attive): 50.02 USDT
+2025-08-13 09:39:33,856 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 09:41:04,918 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 09:41:04,918 | INFO |    Saldo attuale: 444.166400
+2025-08-13 09:41:04,918 | INFO |    Tranche attive: 2 di 87 totali
+2025-08-13 09:41:04,918 | INFO |    Capitale investito (tranche attive): 50.02 USDT
+2025-08-13 09:41:04,918 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 09:42:46,280 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 09:42:46,280 | INFO |    Saldo attuale: 444.166400
+2025-08-13 09:42:46,280 | INFO |    Tranche attive: 2 di 87 totali
+2025-08-13 09:42:46,280 | INFO |    Capitale investito (tranche attive): 50.02 USDT
+2025-08-13 09:42:46,280 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 09:54:36,751 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-13 09:54:36,751 | INFO |    Saldo attuale: 3081.615300
+2025-08-13 09:54:36,751 | INFO |    Tranche attive: 1 di 84 totali
+2025-08-13 09:54:36,751 | INFO |    Capitale investito (tranche attive): 38.47 USDT
+2025-08-13 09:54:36,751 | INFO |    Solo le tranche che compongono il 100% del saldo attuale

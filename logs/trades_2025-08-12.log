@@ -1,0 +1,891 @@
+2025-08-12 00:02:00,121 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 00:02:00,121 | INFO |    Saldo attuale: 508.500000
+2025-08-12 00:02:00,121 | INFO |    Tranche attive: 1 di 7 totali
+2025-08-12 00:02:00,121 | INFO |    Capitale investito (tranche attive): 8.15 USDT
+2025-08-12 00:02:00,121 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 00:02:16,293 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 107.83634530 XNY @ 0.01540329
+2025-08-12 00:02:16,293 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '107.8363453', 'price': '0.01540329', 'type': 'limit'}
+2025-08-12 00:02:16,547 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:02:16,547 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 1.6604434 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:02:16,547 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 508.50000000
+2025-08-12 00:02:38,105 | INFO | � VENDITA FINALE: 107.83634530 XNY @ 0.01510000
+2025-08-12 00:02:38,105 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '107.8363453', 'price': '0.0151', 'type': 'limit'}
+2025-08-12 00:02:38,363 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:02:38,363 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 1.6277800 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:02:42,713 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 115.17465272 XNY @ 0.01521439
+2025-08-12 00:02:42,713 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '115.17465272', 'price': '0.01521439', 'type': 'limit'}
+2025-08-12 00:02:42,972 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:02:42,972 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 1.7511314 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:02:42,972 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 508.50000000
+2025-08-12 00:03:25,801 | INFO | � VENDITA FINALE: 115.17465272 XNY @ 0.01526100
+2025-08-12 00:03:25,801 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '115.17465272', 'price': '0.015261', 'type': 'limit'}
+2025-08-12 00:03:26,049 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:03:26,049 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 1.7565411 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:03:30,752 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 112.10065358 XNY @ 0.01520739
+2025-08-12 00:03:30,752 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '112.10065358', 'price': '0.01520739', 'type': 'limit'}
+2025-08-12 00:03:31,008 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:03:31,008 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 1.7047047 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:03:31,008 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 508.50000000
+2025-08-12 00:04:45,705 | INFO | � VENDITA PARZIALE: 33.63019607 XNY @ 0.01530000
+2025-08-12 00:04:45,705 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '33.63019607', 'price': '0.0153', 'type': 'limit'}
+2025-08-12 00:04:45,955 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:04:45,955 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 0.5140800 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:04:46,707 | INFO | � VENDITA PARZIALE: 33.63019607 XNY @ 0.01534900
+2025-08-12 00:04:46,707 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '33.63019607', 'price': '0.015349', 'type': 'limit'}
+2025-08-12 00:04:46,955 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:04:46,955 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 0.5157264 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:04:47,701 | INFO | � VENDITA PARZIALE: 33.63019607 XNY @ 0.01539200
+2025-08-12 00:04:47,701 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '33.63019607', 'price': '0.015392', 'type': 'limit'}
+2025-08-12 00:04:47,957 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:04:47,958 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 0.5171712 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:04:48,702 | INFO | � VENDITA PARZIALE: 33.63019607 XNY @ 0.01539200
+2025-08-12 00:04:48,702 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '33.63019607', 'price': '0.015392', 'type': 'limit'}
+2025-08-12 00:04:48,950 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:04:48,950 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 0.5171712 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:04:49,701 | INFO | � VENDITA PARZIALE: 33.63019607 XNY @ 0.01511000
+2025-08-12 00:04:49,702 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '33.63019607', 'price': '0.01511', 'type': 'limit'}
+2025-08-12 00:04:49,987 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:04:49,987 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 0.5076960 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:04:51,009 | INFO | � VENDITA FINALE: 112.10065358 XNY @ 0.01511500
+2025-08-12 00:04:51,009 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '112.10065358', 'price': '0.015115', 'type': 'limit'}
+2025-08-12 00:04:51,256 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:04:51,256 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 1.6943915 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:04:55,813 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 110.25322867 XNY @ 0.01530035
+2025-08-12 00:04:55,813 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '110.25322867', 'price': '0.01530035', 'type': 'limit'}
+2025-08-12 00:04:56,119 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:04:56,120 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 1.6860600 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:04:56,120 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 508.50000000
+2025-08-12 00:04:56,836 | INFO | � VENDITA FINALE: 110.25322867 XNY @ 0.01513300
+2025-08-12 00:04:56,836 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '110.25322867', 'price': '0.015133', 'type': 'limit'}
+2025-08-12 00:04:57,144 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 00:04:57,144 | INFO | Dettagli errore: {"label":"INVALID_PARAM_VALUE","message":"Your order size 1.6676566 USDT is too small. The minimum is 3 USDT"}
+2025-08-12 00:05:51,667 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 00:05:51,667 | INFO |    Saldo attuale: 508.500000
+2025-08-12 00:05:51,667 | INFO |    Tranche attive: 1 di 7 totali
+2025-08-12 00:05:51,667 | INFO |    Capitale investito (tranche attive): 8.15 USDT
+2025-08-12 00:05:51,667 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 00:06:18,449 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 225.86109542 XNY @ 0.01549625
+2025-08-12 00:06:18,449 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '225.86109542', 'price': '0.01549625', 'type': 'limit'}
+2025-08-12 00:06:18,736 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 508.50000000
+2025-08-12 00:06:19,273 | INFO | � VENDITA FINALE: 225.86109542 XNY @ 0.01537100
+2025-08-12 00:06:19,273 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '225.86109542', 'price': '0.015371', 'type': 'limit'}
+2025-08-12 00:06:36,107 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 225.93399499 XNY @ 0.01549125
+2025-08-12 00:06:36,107 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '225.93399499', 'price': '0.01549125', 'type': 'limit'}
+2025-08-12 00:06:36,369 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 508.50000000
+2025-08-12 00:06:52,753 | INFO | � VENDITA FINALE: 225.93399499 XNY @ 0.01539500
+2025-08-12 00:06:52,753 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '225.93399499', 'price': '0.015395', 'type': 'limit'}
+2025-08-12 00:07:09,332 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 225.17856660 XNY @ 0.01554322
+2025-08-12 00:07:09,332 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '225.1785666', 'price': '0.01554322', 'type': 'limit'}
+2025-08-12 00:07:09,587 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 508.50000000
+2025-08-12 00:07:10,118 | INFO | � VENDITA FINALE: 225.17856660 XNY @ 0.01546200
+2025-08-12 00:07:10,118 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '225.1785666', 'price': '0.015462', 'type': 'limit'}
+2025-08-12 00:20:36,700 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 00:20:36,700 | INFO |    Saldo attuale: 508.500000
+2025-08-12 00:20:36,700 | INFO |    Tranche attive: 3 di 10 totali
+2025-08-12 00:20:36,700 | INFO |    Capitale investito (tranche attive): 7.89 USDT
+2025-08-12 00:20:36,700 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 00:21:03,439 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 213.88661931 XNY @ 0.01636381
+2025-08-12 00:21:03,439 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '213.88661931', 'price': '0.01636381', 'type': 'limit'}
+2025-08-12 00:21:03,734 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 508.50000000
+2025-08-12 00:21:03,735 | INFO | 🎯 VENDITA TARGET: 213.88661931 XNY @ 0.01669109 (+2.0%)
+2025-08-12 00:21:03,735 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '213.88661931', 'price': '0.01669109', 'type': 'limit'}
+2025-08-12 00:22:09,577 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 214.08272890 XNY @ 0.01634882
+2025-08-12 00:22:09,577 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '214.0827289', 'price': '0.01634882', 'type': 'limit'}
+2025-08-12 00:22:09,832 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 722.30000000
+2025-08-12 00:22:09,832 | INFO | 🎯 VENDITA TARGET: 214.08272890 XNY @ 0.01667580 (+2.0%)
+2025-08-12 00:22:09,832 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '214.0827289', 'price': '0.0166758', 'type': 'limit'}
+2025-08-12 00:23:15,192 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 214.97635874 XNY @ 0.01628086
+2025-08-12 00:23:15,192 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '214.97635874', 'price': '0.01628086', 'type': 'limit'}
+2025-08-12 00:23:15,461 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 936.30000000
+2025-08-12 00:23:15,461 | INFO | 🎯 VENDITA TARGET: 214.97635874 XNY @ 0.01660648 (+2.0%)
+2025-08-12 00:23:15,461 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '214.97635874', 'price': '0.01660648', 'type': 'limit'}
+2025-08-12 00:30:16,930 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 00:30:16,930 | INFO |    Saldo attuale: 1151.200000
+2025-08-12 00:30:16,930 | INFO |    Tranche attive: 6 di 13 totali
+2025-08-12 00:30:16,930 | INFO |    Capitale investito (tranche attive): 18.38 USDT
+2025-08-12 00:30:16,930 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 00:30:48,852 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 220.62531517 XNY @ 0.01586400
+2025-08-12 00:30:48,852 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '220.62531517', 'price': '0.015864', 'type': 'limit'}
+2025-08-12 00:30:49,122 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 1151.20000000
+2025-08-12 00:35:54,425 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 216.06271992 XNY @ 0.01619900
+2025-08-12 00:35:54,425 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '216.06271992', 'price': '0.016199', 'type': 'limit'}
+2025-08-12 00:35:54,702 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 1371.80000000
+2025-08-12 00:37:20,246 | INFO | 🎯 VENDITA MARKET TARGET: 216.06271992 XNY @ 0.01648000
+2025-08-12 00:37:20,247 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '216.06271992', 'price': '0.01648', 'type': 'limit'}
+2025-08-12 00:37:25,336 | INFO | � STRATEGIA: PIAZZANDO ORDINE ACQUISTO: 212.04410517 XNY @ 0.01650600
+2025-08-12 00:37:25,336 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '212.04410517', 'price': '0.016506', 'type': 'limit'}
+2025-08-12 00:37:25,604 | INFO | ✅ ACQUISTO STRATEGICO ESEGUITO - Saldo XNY: 1371.80000000
+2025-08-12 00:50:19,089 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 00:50:19,089 | INFO |    Saldo attuale: 1371.800000
+2025-08-12 00:50:19,089 | INFO |    Tranche attive: 7 di 15 totali
+2025-08-12 00:50:19,089 | INFO |    Capitale investito (tranche attive): 22.04 USDT
+2025-08-12 00:50:19,089 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 00:53:30,453 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 00:53:30,453 | INFO | ==============================
+2025-08-12 00:53:30,453 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 00:53:30,454 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 00:53:30,454 | INFO | 
+2025-08-12 00:53:34,213 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 00:53:35,517 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 00:53:35,517 | INFO | 💰 Prezzo attuale: 0.01645700 USDT
+2025-08-12 00:53:53,725 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 00:56:15,360 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 00:56:15,360 | INFO | ==============================
+2025-08-12 00:56:15,360 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 00:56:15,360 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 00:56:15,360 | INFO | 
+2025-08-12 00:56:19,383 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 00:56:20,481 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 00:56:20,482 | INFO | 💰 Prezzo attuale: 0.01643000 USDT
+2025-08-12 00:56:32,108 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 02:09:24,734 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 02:09:24,734 | INFO |    Saldo attuale: 8386.000000
+2025-08-12 02:09:24,734 | INFO |    Tranche attive: 3 di 24 totali
+2025-08-12 02:09:24,735 | INFO |    Capitale investito (tranche attive): 131.47 USDT
+2025-08-12 02:09:24,735 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 02:12:36,443 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 02:12:36,444 | INFO | ==============================
+2025-08-12 02:12:36,444 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 02:12:36,444 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 02:12:36,444 | INFO | 
+2025-08-12 02:12:38,859 | INFO | 🔍 Verifico disponibilità di PROVE_USDT su Gate.io...
+2025-08-12 02:12:39,918 | INFO | ✅ PROVE_USDT trovata e disponibile!
+2025-08-12 02:12:39,918 | INFO | 💰 Prezzo attuale: 1.60630000 USDT
+2025-08-12 02:12:49,341 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 02:16:45,743 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 02:16:45,743 | INFO | ==============================
+2025-08-12 02:16:45,743 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 02:16:45,743 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 02:16:45,743 | INFO | 
+2025-08-12 02:16:50,150 | INFO | 🔍 Verifico disponibilità di PROVE_USDT su Gate.io...
+2025-08-12 02:16:51,199 | INFO | ✅ PROVE_USDT trovata e disponibile!
+2025-08-12 02:16:51,199 | INFO | 💰 Prezzo attuale: 1.61390000 USDT
+2025-08-12 02:17:06,431 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 02:17:06,431 | INFO | ==============================
+2025-08-12 02:17:06,431 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 02:17:06,431 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 02:17:06,431 | INFO | 
+2025-08-12 02:17:08,727 | INFO | 🔍 Verifico disponibilità di PROVE_USDT su Gate.io...
+2025-08-12 02:17:09,738 | INFO | ✅ PROVE_USDT trovata e disponibile!
+2025-08-12 02:17:09,738 | INFO | 💰 Prezzo attuale: 1.60910000 USDT
+2025-08-12 02:17:18,910 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 02:29:56,515 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 02:29:56,515 | INFO | ==============================
+2025-08-12 02:29:56,515 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 02:29:56,515 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 02:29:56,515 | INFO | 
+2025-08-12 02:29:59,475 | INFO | 🔍 Verifico disponibilità di PROVE_USDT su Gate.io...
+2025-08-12 02:30:00,501 | INFO | ✅ PROVE_USDT trovata e disponibile!
+2025-08-12 02:30:00,501 | INFO | 💰 Prezzo attuale: 1.57590000 USDT
+2025-08-12 02:30:10,260 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 03:17:02,869 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 03:17:02,869 | INFO | ==============================
+2025-08-12 03:17:02,869 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 03:17:02,869 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 03:17:02,869 | INFO | 
+2025-08-12 03:17:05,484 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 03:17:06,532 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 03:17:06,532 | INFO | 💰 Prezzo attuale: 0.01577200 USDT
+2025-08-12 03:17:11,364 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 03:17:11,364 | INFO | ==============================
+2025-08-12 03:17:11,364 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 03:17:11,364 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 03:17:11,364 | INFO | 
+2025-08-12 03:17:14,372 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 03:17:14,624 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 03:17:14,624 | INFO | 💰 Prezzo attuale: 0.01574300 USDT
+2025-08-12 03:17:27,807 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 03:18:50,136 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '222.09531061', 'price': '0.015759', 'type': 'limit'}
+2025-08-12 03:18:54,196 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '222', 'price': '0.01607418', 'type': 'limit'}
+2025-08-12 03:29:17,559 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 03:29:17,559 | INFO | ==============================
+2025-08-12 03:29:17,559 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 03:29:17,559 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 03:29:17,560 | INFO | 
+2025-08-12 03:29:35,904 | INFO | 🔍 Verifico disponibilità di PROVE_USDT su Gate.io...
+2025-08-12 03:29:37,108 | INFO | ✅ PROVE_USDT trovata e disponibile!
+2025-08-12 03:29:37,109 | INFO | 💰 Prezzo attuale: 1.59300000 USDT
+2025-08-12 03:29:46,017 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 03:30:38,037 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'buy', 'amount': '2.19394471', 'price': '1.5953', 'type': 'limit'}
+2025-08-12 03:30:45,205 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'buy', 'amount': '2.19147204', 'price': '1.5971', 'type': 'limit'}
+2025-08-12 03:35:06,174 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 03:35:06,174 | INFO |    Saldo attuale: 2.100000
+2025-08-12 03:35:06,174 | INFO |    Tranche attive: 1 di 2 totali
+2025-08-12 03:35:06,174 | INFO |    Capitale investito (tranche attive): 3.35 USDT
+2025-08-12 03:35:06,174 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 03:38:28,366 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 03:38:28,366 | INFO | ==============================
+2025-08-12 03:38:28,366 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 03:38:28,367 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 03:38:28,367 | INFO | 
+2025-08-12 03:38:33,023 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 03:38:34,203 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 03:38:34,203 | INFO | 💰 Prezzo attuale: 0.01570200 USDT
+2025-08-12 03:38:42,406 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 03:39:28,373 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '221.75056229', 'price': '0.0157835', 'type': 'limit'}
+2025-08-12 03:39:32,469 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '221.75056229', 'price': '0.0157835', 'type': 'limit'}
+2025-08-12 03:50:08,416 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 03:50:08,416 | INFO | ==============================
+2025-08-12 03:50:08,416 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 03:50:08,417 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 03:50:08,417 | INFO | 
+2025-08-12 03:50:11,177 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 03:50:12,346 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 03:50:12,346 | INFO | 💰 Prezzo attuale: 0.01536200 USDT
+2025-08-12 03:50:18,358 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 03:51:05,024 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '221.90549615', 'price': '0.01577248', 'type': 'limit'}
+2025-08-12 03:51:08,482 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '221.94771165', 'price': '0.01576948', 'type': 'limit'}
+2025-08-12 04:06:58,341 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 04:06:58,342 | INFO | ==============================
+2025-08-12 04:06:58,342 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 04:06:58,342 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 04:06:58,342 | INFO | 
+2025-08-12 04:07:01,573 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 04:07:02,720 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 04:07:02,720 | INFO | 💰 Prezzo attuale: 0.01547400 USDT
+2025-08-12 04:07:09,472 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 04:07:45,569 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '224.16986695', 'price': '0.01561316', 'type': 'limit'}
+2025-08-12 04:07:49,032 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '224.16986695', 'price': '0.01561316', 'type': 'limit'}
+2025-08-12 04:08:22,144 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 04:08:22,144 | INFO |    Saldo attuale: 448.200000
+2025-08-12 04:08:22,144 | INFO |    Tranche attive: 2 di 36 totali
+2025-08-12 04:08:22,144 | INFO |    Capitale investito (tranche attive): 6.98 USDT
+2025-08-12 04:08:22,144 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 04:20:07,404 | INFO | Errore di rete o API: 401 Client Error: Unauthorized for url: https://api.gateio.ws/api/v4/spot/accounts
+2025-08-12 04:20:07,404 | INFO | Dettagli errore: {"message":"Invalid key provided","label":"INVALID_KEY"}
+
+2025-08-12 04:20:07,669 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 04:20:07,925 | INFO | Errore di rete o API: 401 Client Error: Unauthorized for url: https://api.gateio.ws/api/v4/wallet/fee
+2025-08-12 04:20:07,925 | INFO | Dettagli errore: {"label":"INVALID_KEY","message":"Invalid key provided"}
+
+2025-08-12 04:21:57,635 | INFO | 📋 Ordine 100%: 448.200000 XNY ≈ 7.32 USDT [Session: session_20250812_042157]
+2025-08-12 04:22:23,349 | INFO | Errore di rete o API: 401 Client Error: Unauthorized for url: https://api.gateio.ws/api/v4/spot/accounts
+2025-08-12 04:22:23,349 | INFO | Dettagli errore: {"label":"INVALID_KEY","message":"Invalid key provided"}
+
+2025-08-12 04:22:23,606 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 04:22:23,873 | INFO | Errore di rete o API: 401 Client Error: Unauthorized for url: https://api.gateio.ws/api/v4/wallet/fee
+2025-08-12 04:22:23,873 | INFO | Dettagli errore: {"label":"INVALID_KEY","message":"Invalid key provided"}
+
+2025-08-12 04:27:56,010 | INFO | 📋 Ordine 100%: 448.200000 XNY ≈ 7.13 USDT [Session: session_20250812_042756]
+2025-08-12 04:27:58,038 | INFO | 📋 Ordine 100%: 448.200000 XNY ≈ 7.11 USDT [Session: session_20250812_042758]
+2025-08-12 04:27:59,111 | INFO | 📋 Ordine 100%: 448.200000 XNY ≈ 7.11 USDT [Session: session_20250812_042759]
+2025-08-12 04:28:09,119 | INFO | 📋 Ordine 100%: 448.200000 XNY ≈ 7.11 USDT [Session: session_20250812_042809]
+2025-08-12 04:28:24,649 | INFO | 🔥 PIAZZANDO ORDINE REALE: 448.200000 XNY @ 0.015799 USDT
+2025-08-12 04:28:24,649 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '448.2', 'price': '0.015799', 'type': 'limit'}
+2025-08-12 04:28:25,679 | INFO | 📋 STATO ORDINE #89396759: closed
+2025-08-12 04:28:25,679 | INFO | 💰 SALDO PRIMA: 448.200000 XNY
+2025-08-12 04:28:25,679 | INFO | 💰 SALDO DOPO: 448.200000 XNY
+2025-08-12 04:28:25,680 | INFO | ✅ ORDINE ESEGUITO - Session: session_20250812_042809
+2025-08-12 04:28:25,680 | INFO |    💰 Valore: 7.08 USDT
+2025-08-12 04:28:25,680 | INFO |    ⚡ Tempo: 827ms
+2025-08-12 04:28:25,680 | INFO |    🎯 Fee Rate: 0.0010
+2025-08-12 04:28:25,680 | INFO |    🎁 GT Used: ✗
+2025-08-12 09:06:04,809 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 09:06:04,809 | INFO | ==============================
+2025-08-12 09:06:04,809 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 09:06:04,809 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 09:06:04,809 | INFO | 
+2025-08-12 09:06:09,887 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 09:06:10,951 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 09:06:10,952 | INFO | 💰 Prezzo attuale: 0.01510800 USDT
+2025-08-12 09:06:58,940 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 09:07:52,898 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 09:07:52,898 | INFO | ==============================
+2025-08-12 09:07:52,898 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 09:07:52,898 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 09:07:52,898 | INFO | 
+2025-08-12 09:07:55,842 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 09:07:56,655 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 09:07:56,655 | INFO | 💰 Prezzo attuale: 0.01504900 USDT
+2025-08-12 09:08:05,043 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 09:08:34,585 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '232.1247372', 'price': '0.0150781', 'type': 'limit'}
+2025-08-12 09:08:39,491 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '232.10934339', 'price': '0.0150791', 'type': 'limit'}
+2025-08-12 09:16:16,901 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 09:16:16,901 | INFO |    Saldo attuale: 464.200000
+2025-08-12 09:16:16,901 | INFO |    Tranche attive: 3 di 40 totali
+2025-08-12 09:16:16,901 | INFO |    Capitale investito (tranche attive): 6.98 USDT
+2025-08-12 09:16:16,901 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 09:26:20,576 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 09:26:20,576 | INFO | ==============================
+2025-08-12 09:26:20,576 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 09:26:20,576 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 09:26:20,576 | INFO | 
+2025-08-12 09:26:24,736 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 09:26:25,814 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 09:26:25,814 | INFO | 💰 Prezzo attuale: 0.01477800 USDT
+2025-08-12 09:26:40,371 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 09:27:07,610 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '436.5064815', 'price': '0.01486667', 'type': 'limit'}
+2025-08-12 09:28:33,232 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 09:28:33,232 | INFO |    Saldo attuale: 436.500000
+2025-08-12 09:28:33,232 | INFO |    Tranche attive: 1 di 43 totali
+2025-08-12 09:28:33,232 | INFO |    Capitale investito (tranche attive): 6.48 USDT
+2025-08-12 09:28:33,232 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 09:38:47,500 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 09:38:47,520 | INFO | ==============================
+2025-08-12 09:38:47,520 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 09:38:47,520 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 09:38:47,520 | INFO | 
+2025-08-12 09:39:01,491 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 09:39:02,714 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 09:39:02,714 | INFO | 💰 Prezzo attuale: 0.01531400 USDT
+2025-08-12 09:39:09,233 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 09:39:40,516 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 09:39:40,516 | INFO | ==============================
+2025-08-12 09:39:40,516 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 09:39:40,516 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 09:39:40,516 | INFO | 
+2025-08-12 09:39:43,532 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 09:39:44,617 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 09:39:44,618 | INFO | 💰 Prezzo attuale: 0.01528800 USDT
+2025-08-12 09:39:52,650 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 09:40:23,031 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'buy', 'amount': '227.01078041', 'price': '0.01541777', 'type': 'limit'}
+2025-08-12 09:45:57,497 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 09:45:57,497 | INFO |    Saldo attuale: 227.000000
+2025-08-12 09:45:57,497 | INFO |    Tranche attive: 1 di 45 totali
+2025-08-12 09:45:57,497 | INFO |    Capitale investito (tranche attive): 3.49 USDT
+2025-08-12 09:45:57,497 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 09:55:15,466 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 09:55:15,468 | INFO | ==============================
+2025-08-12 09:55:15,468 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 09:55:15,468 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 09:55:15,468 | INFO | 
+2025-08-12 09:55:19,250 | INFO | 🔍 Verifico disponibilità di PROVE_USDT su Gate.io...
+2025-08-12 09:55:20,290 | INFO | ✅ PROVE_USDT trovata e disponibile!
+2025-08-12 09:55:20,290 | INFO | 💰 Prezzo attuale: 1.61130000 USDT
+2025-08-12 09:55:27,596 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 09:56:01,861 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'buy', 'amount': '2.17173213', 'price': '1.6116168', 'type': 'limit'}
+2025-08-12 10:17:04,455 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'buy', 'amount': '127.11325791', 'price': '1.5765468', 'type': 'limit'}
+2025-08-12 10:17:04,716 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:17:04,716 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:25:43,762 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5967', 'type': 'limit'}
+2025-08-12 10:25:44,031 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:25:44,031 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:25:44,785 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5967', 'type': 'limit'}
+2025-08-12 10:25:45,067 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:25:45,067 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:25:45,824 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5967', 'type': 'limit'}
+2025-08-12 10:25:46,090 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:25:46,090 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:25:47,125 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5952', 'type': 'limit'}
+2025-08-12 10:25:47,382 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:25:47,382 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:25:48,176 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5961', 'type': 'limit'}
+2025-08-12 10:25:48,432 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:25:48,432 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:25:54,951 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5958', 'type': 'limit'}
+2025-08-12 10:25:55,208 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:25:55,208 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:25:56,010 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5961', 'type': 'limit'}
+2025-08-12 10:25:56,268 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:25:56,269 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:25:57,031 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5989', 'type': 'limit'}
+2025-08-12 10:25:57,290 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:25:57,290 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:25:59,046 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5984', 'type': 'limit'}
+2025-08-12 10:25:59,304 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:25:59,304 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:00,649 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5986', 'type': 'limit'}
+2025-08-12 10:26:00,916 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:00,916 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:01,683 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5982', 'type': 'limit'}
+2025-08-12 10:26:01,943 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:01,943 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:02,741 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6001', 'type': 'limit'}
+2025-08-12 10:26:03,035 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:03,035 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:03,816 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6001', 'type': 'limit'}
+2025-08-12 10:26:04,073 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:04,074 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:04,830 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6016', 'type': 'limit'}
+2025-08-12 10:26:05,086 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:05,087 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:06,663 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6017', 'type': 'limit'}
+2025-08-12 10:26:06,919 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:06,919 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:07,708 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6021', 'type': 'limit'}
+2025-08-12 10:26:07,971 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:07,971 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:08,729 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5985', 'type': 'limit'}
+2025-08-12 10:26:08,999 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:08,999 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:09,784 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5995', 'type': 'limit'}
+2025-08-12 10:26:10,082 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:10,082 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:10,839 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5995', 'type': 'limit'}
+2025-08-12 10:26:11,095 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:11,095 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:12,665 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6007', 'type': 'limit'}
+2025-08-12 10:26:12,931 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:12,931 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:15,833 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6011', 'type': 'limit'}
+2025-08-12 10:26:16,090 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:16,090 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:16,875 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6019', 'type': 'limit'}
+2025-08-12 10:26:17,156 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:17,156 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:18,457 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5998', 'type': 'limit'}
+2025-08-12 10:26:18,716 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:18,716 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:19,490 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5987', 'type': 'limit'}
+2025-08-12 10:26:19,748 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:19,748 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:20,504 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6003', 'type': 'limit'}
+2025-08-12 10:26:20,764 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:20,764 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:21,518 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5996', 'type': 'limit'}
+2025-08-12 10:26:21,775 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:21,776 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:22,530 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6003', 'type': 'limit'}
+2025-08-12 10:26:22,799 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:22,799 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:24,224 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6023', 'type': 'limit'}
+2025-08-12 10:26:24,485 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:24,485 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:25,239 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6021', 'type': 'limit'}
+2025-08-12 10:26:25,499 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:25,499 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:26,269 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6012', 'type': 'limit'}
+2025-08-12 10:26:26,526 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:26,526 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:27,290 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6022', 'type': 'limit'}
+2025-08-12 10:26:27,557 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:27,557 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:28,312 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6022', 'type': 'limit'}
+2025-08-12 10:26:28,570 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:28,570 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:29,883 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6024', 'type': 'limit'}
+2025-08-12 10:26:30,149 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:30,149 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:30,904 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6024', 'type': 'limit'}
+2025-08-12 10:26:31,162 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:31,162 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:31,919 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6014', 'type': 'limit'}
+2025-08-12 10:26:32,178 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:32,178 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:32,934 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6014', 'type': 'limit'}
+2025-08-12 10:26:33,192 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:33,192 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:33,947 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6016', 'type': 'limit'}
+2025-08-12 10:26:34,226 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:34,226 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:35,568 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6016', 'type': 'limit'}
+2025-08-12 10:26:35,825 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:35,825 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:36,583 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5976', 'type': 'limit'}
+2025-08-12 10:26:36,841 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:36,841 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:37,597 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5976', 'type': 'limit'}
+2025-08-12 10:26:37,879 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:37,879 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:38,661 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5976', 'type': 'limit'}
+2025-08-12 10:26:38,919 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:38,920 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:39,675 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5973', 'type': 'limit'}
+2025-08-12 10:26:39,934 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:39,935 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:41,230 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5963', 'type': 'limit'}
+2025-08-12 10:26:41,490 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:41,490 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:42,247 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5963', 'type': 'limit'}
+2025-08-12 10:26:42,513 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:42,513 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:43,276 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5963', 'type': 'limit'}
+2025-08-12 10:26:43,533 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:43,533 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:44,306 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5963', 'type': 'limit'}
+2025-08-12 10:26:44,565 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:44,565 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:45,319 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5962', 'type': 'limit'}
+2025-08-12 10:26:45,594 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:45,594 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:26:59,705 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5978', 'type': 'limit'}
+2025-08-12 10:26:59,963 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:26:59,963 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:00,719 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5978', 'type': 'limit'}
+2025-08-12 10:27:00,988 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:00,988 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:01,764 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5978', 'type': 'limit'}
+2025-08-12 10:27:02,023 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:02,023 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:02,792 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5978', 'type': 'limit'}
+2025-08-12 10:27:03,050 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:03,050 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:04,387 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5989', 'type': 'limit'}
+2025-08-12 10:27:04,668 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:04,669 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:05,428 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5979', 'type': 'limit'}
+2025-08-12 10:27:05,690 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:05,690 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:06,913 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5976', 'type': 'limit'}
+2025-08-12 10:27:07,170 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:07,171 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:07,952 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5976', 'type': 'limit'}
+2025-08-12 10:27:08,209 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:08,209 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:09,084 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5965', 'type': 'limit'}
+2025-08-12 10:27:09,361 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:09,361 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:10,664 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5958', 'type': 'limit'}
+2025-08-12 10:27:10,925 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:10,925 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:11,679 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5986', 'type': 'limit'}
+2025-08-12 10:27:11,941 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:11,941 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:12,695 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5971', 'type': 'limit'}
+2025-08-12 10:27:12,953 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:12,953 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:13,744 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5957', 'type': 'limit'}
+2025-08-12 10:27:14,000 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:14,001 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:14,797 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5967', 'type': 'limit'}
+2025-08-12 10:27:15,055 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:15,055 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:38,603 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5981', 'type': 'limit'}
+2025-08-12 10:27:38,872 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:38,873 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:39,651 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5981', 'type': 'limit'}
+2025-08-12 10:27:39,908 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:39,908 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:40,743 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5987', 'type': 'limit'}
+2025-08-12 10:27:41,011 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:41,011 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:41,858 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5981', 'type': 'limit'}
+2025-08-12 10:27:42,115 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:42,115 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:42,883 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5982', 'type': 'limit'}
+2025-08-12 10:27:43,149 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:43,149 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:44,498 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5983', 'type': 'limit'}
+2025-08-12 10:27:44,757 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:44,757 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:45,526 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5996', 'type': 'limit'}
+2025-08-12 10:27:45,785 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:45,785 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:46,541 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5996', 'type': 'limit'}
+2025-08-12 10:27:46,804 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:46,804 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:47,558 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5996', 'type': 'limit'}
+2025-08-12 10:27:47,816 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:47,816 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:48,574 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5984', 'type': 'limit'}
+2025-08-12 10:27:48,832 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:48,832 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:50,148 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5981', 'type': 'limit'}
+2025-08-12 10:27:50,406 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:50,406 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:51,164 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6012', 'type': 'limit'}
+2025-08-12 10:27:51,420 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:51,421 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:52,225 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6005', 'type': 'limit'}
+2025-08-12 10:27:52,482 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:52,482 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:53,390 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6005', 'type': 'limit'}
+2025-08-12 10:27:53,655 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:53,655 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:54,411 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6005', 'type': 'limit'}
+2025-08-12 10:27:54,674 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:54,674 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:56,040 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6005', 'type': 'limit'}
+2025-08-12 10:27:56,298 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:56,298 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:57,112 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6008', 'type': 'limit'}
+2025-08-12 10:27:57,369 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:57,369 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:58,144 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6019', 'type': 'limit'}
+2025-08-12 10:27:58,405 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:58,405 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:27:59,161 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6019', 'type': 'limit'}
+2025-08-12 10:27:59,418 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:27:59,418 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:00,227 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6032', 'type': 'limit'}
+2025-08-12 10:28:00,484 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:00,484 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:01,820 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6025', 'type': 'limit'}
+2025-08-12 10:28:02,087 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:02,087 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:02,852 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6018', 'type': 'limit'}
+2025-08-12 10:28:03,126 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:03,126 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:03,883 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6018', 'type': 'limit'}
+2025-08-12 10:28:04,140 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:04,140 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:04,896 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6031', 'type': 'limit'}
+2025-08-12 10:28:05,152 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:05,152 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:06,004 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6031', 'type': 'limit'}
+2025-08-12 10:28:06,265 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:06,265 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:07,542 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6018', 'type': 'limit'}
+2025-08-12 10:28:07,799 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:07,799 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:08,625 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6018', 'type': 'limit'}
+2025-08-12 10:28:08,891 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:08,892 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:09,727 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.602', 'type': 'limit'}
+2025-08-12 10:28:10,006 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:10,007 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:10,817 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.602', 'type': 'limit'}
+2025-08-12 10:28:11,089 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:11,089 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:11,843 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.602', 'type': 'limit'}
+2025-08-12 10:28:12,100 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:12,100 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:13,442 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.602', 'type': 'limit'}
+2025-08-12 10:28:13,707 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:13,707 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:14,548 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6018', 'type': 'limit'}
+2025-08-12 10:28:14,810 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:14,810 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:15,569 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6018', 'type': 'limit'}
+2025-08-12 10:28:15,827 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:15,827 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:16,604 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.602', 'type': 'limit'}
+2025-08-12 10:28:16,863 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:16,863 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:17,642 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6018', 'type': 'limit'}
+2025-08-12 10:28:17,907 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:17,908 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:19,216 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6018', 'type': 'limit'}
+2025-08-12 10:28:19,475 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:19,475 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:20,230 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6018', 'type': 'limit'}
+2025-08-12 10:28:20,487 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:20,487 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:21,256 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6018', 'type': 'limit'}
+2025-08-12 10:28:21,518 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:21,518 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:22,278 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6011', 'type': 'limit'}
+2025-08-12 10:28:22,535 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:22,536 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:23,302 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6005', 'type': 'limit'}
+2025-08-12 10:28:23,566 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:23,566 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:24,918 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.6011', 'type': 'limit'}
+2025-08-12 10:28:25,175 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:25,175 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:25,931 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5996', 'type': 'limit'}
+2025-08-12 10:28:26,189 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:26,189 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:26,995 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5983', 'type': 'limit'}
+2025-08-12 10:28:27,251 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:27,251 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:28,015 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5983', 'type': 'limit'}
+2025-08-12 10:28:28,272 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:28,272 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:29,037 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5994', 'type': 'limit'}
+2025-08-12 10:28:29,293 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:29,293 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:30,758 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5981', 'type': 'limit'}
+2025-08-12 10:28:31,014 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:31,014 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:31,777 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5981', 'type': 'limit'}
+2025-08-12 10:28:32,033 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:32,033 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:32,821 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5981', 'type': 'limit'}
+2025-08-12 10:28:33,080 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:33,080 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:33,887 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5994', 'type': 'limit'}
+2025-08-12 10:28:34,143 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:34,143 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:35,443 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5982', 'type': 'limit'}
+2025-08-12 10:28:35,699 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:35,699 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:37,482 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5981', 'type': 'limit'}
+2025-08-12 10:28:37,739 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:37,739 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:38,540 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5981', 'type': 'limit'}
+2025-08-12 10:28:38,814 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:38,814 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:39,585 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5981', 'type': 'limit'}
+2025-08-12 10:28:39,849 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:39,849 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:40,633 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5981', 'type': 'limit'}
+2025-08-12 10:28:40,891 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:40,892 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:41,676 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5969', 'type': 'limit'}
+2025-08-12 10:28:41,934 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:41,934 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:43,243 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5964', 'type': 'limit'}
+2025-08-12 10:28:43,512 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:43,512 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:44,315 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5968', 'type': 'limit'}
+2025-08-12 10:28:44,594 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:44,595 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:45,380 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5968', 'type': 'limit'}
+2025-08-12 10:28:45,637 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:45,638 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:46,395 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5969', 'type': 'limit'}
+2025-08-12 10:28:46,653 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:46,653 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:28:47,407 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5969', 'type': 'limit'}
+2025-08-12 10:28:47,665 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:28:47,666 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:29:00,241 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5991', 'type': 'limit'}
+2025-08-12 10:29:00,502 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:29:00,502 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:29:01,278 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5991', 'type': 'limit'}
+2025-08-12 10:29:01,536 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:29:01,536 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:29:02,432 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5991', 'type': 'limit'}
+2025-08-12 10:29:02,694 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:29:02,694 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:29:03,453 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.598', 'type': 'limit'}
+2025-08-12 10:29:03,734 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:29:03,734 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:29:04,556 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.597', 'type': 'limit'}
+2025-08-12 10:29:04,819 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:29:04,819 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:29:06,165 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5963', 'type': 'limit'}
+2025-08-12 10:29:06,430 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:29:06,430 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:29:07,204 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5963', 'type': 'limit'}
+2025-08-12 10:29:07,460 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:29:07,460 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:29:08,231 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5944', 'type': 'limit'}
+2025-08-12 10:29:08,500 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:29:08,500 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:29:09,255 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.5943', 'type': 'limit'}
+2025-08-12 10:29:09,518 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:29:09,519 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:29:10,330 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'sell', 'amount': '129.21325791', 'price': '1.593', 'type': 'limit'}
+2025-08-12 10:29:10,597 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:29:10,597 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 10:40:54,683 | INFO | Errore di rete o API: HTTPSConnectionPool(host='api.gateio.ws', port=443): Max retries exceeded with url: /api/v4/spot/accounts (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff3cf8082d0>: Failed to resolve 'api.gateio.ws' ([Errno -3] Temporary failure in name resolution)"))
+2025-08-12 10:40:54,684 | INFO | Errore di rete o API: HTTPSConnectionPool(host='api.gateio.ws', port=443): Max retries exceeded with url: /api/v4/spot/accounts (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff3cf808f50>: Failed to resolve 'api.gateio.ws' ([Errno -3] Temporary failure in name resolution)"))
+2025-08-12 10:40:54,686 | INFO | Errore di rete o API: HTTPSConnectionPool(host='api.gateio.ws', port=443): Max retries exceeded with url: /api/v4/spot/candlesticks?currency_pair=PROVE_USDT&interval=1m&limit=20 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff3cf8096d0>: Failed to resolve 'api.gateio.ws' ([Errno -3] Temporary failure in name resolution)"))
+2025-08-12 10:45:15,377 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'PROVE_USDT', 'side': 'buy', 'amount': '130.52274359', 'price': '1.5353646', 'type': 'limit'}
+2025-08-12 10:45:15,647 | INFO | Errore di rete o API: 400 Client Error: Bad Request for url: https://api.gateio.ws/api/v4/spot/orders
+2025-08-12 10:45:15,647 | INFO | Dettagli errore: {"label":"BALANCE_NOT_ENOUGH","message":"Not enough balance"}
+2025-08-12 11:13:04,684 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 11:13:04,685 | INFO | ==============================
+2025-08-12 11:13:04,685 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 11:13:04,685 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 11:13:04,685 | INFO | 
+2025-08-12 11:13:09,053 | INFO | 🔍 Verifico disponibilità di ZKJ_USDT su Gate.io...
+2025-08-12 11:13:10,158 | INFO | ✅ ZKJ_USDT trovata e disponibile!
+2025-08-12 11:13:10,158 | INFO | 💰 Prezzo attuale: 0.23532000 USDT
+2025-08-12 11:14:15,273 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 11:15:10,188 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'ZKJ_USDT', 'side': 'buy', 'amount': '14.59070163', 'price': '0.23645196', 'type': 'limit'}
+2025-08-12 12:01:31,625 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 12:01:31,626 | INFO |    Saldo attuale: 2.100000
+2025-08-12 12:01:31,626 | INFO |    Tranche attive: 1 di 4 totali
+2025-08-12 12:01:31,626 | INFO |    Capitale investito (tranche attive): 3.38 USDT
+2025-08-12 12:01:31,626 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 13:46:33,292 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 13:46:33,292 | INFO |    Saldo attuale: 1642.000000
+2025-08-12 13:46:33,293 | INFO |    Tranche attive: 3 di 82 totali
+2025-08-12 13:46:33,293 | INFO |    Capitale investito (tranche attive): 195.70 USDT
+2025-08-12 13:46:33,293 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 13:47:07,187 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 13:47:07,187 | INFO |    Saldo attuale: 1642.000000
+2025-08-12 13:47:07,187 | INFO |    Tranche attive: 3 di 82 totali
+2025-08-12 13:47:07,187 | INFO |    Capitale investito (tranche attive): 195.70 USDT
+2025-08-12 13:47:07,187 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 18:18:25,859 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 18:18:25,859 | INFO |    Saldo attuale: 8591.100000
+2025-08-12 18:18:25,859 | INFO |    Tranche attive: 3 di 74 totali
+2025-08-12 18:18:25,859 | INFO |    Capitale investito (tranche attive): 147.67 USDT
+2025-08-12 18:18:25,859 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 18:26:26,511 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 18:26:26,512 | INFO | ==============================
+2025-08-12 18:26:26,512 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 18:26:26,512 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 18:26:26,512 | INFO | 
+2025-08-12 18:26:31,535 | INFO | 🔍 Verifico disponibilità di ZORA_USDT su Gate.io...
+2025-08-12 18:26:32,569 | INFO | ✅ ZORA_USDT trovata e disponibile!
+2025-08-12 18:26:32,569 | INFO | 💰 Prezzo attuale: 0.11342300 USDT
+2025-08-12 18:26:39,954 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 20:24:14,492 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 20:24:14,492 | INFO |    Saldo attuale: 9038.900000
+2025-08-12 20:24:14,492 | INFO |    Tranche attive: 3 di 75 totali
+2025-08-12 20:24:14,492 | INFO |    Capitale investito (tranche attive): 155.05 USDT
+2025-08-12 20:24:14,492 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 20:25:27,939 | INFO | 📋 Ordine 100%: 9038.900000 XNY ≈ 156.29 USDT [Session: session_20250812_202527]
+2025-08-12 20:34:36,341 | INFO | 🔥 PIAZZANDO ORDINE REALE: 8318.200000 XNY @ 0.016920 USDT
+2025-08-12 20:34:36,341 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'XNY_USDT', 'side': 'sell', 'amount': '8318.2', 'price': '0.01692', 'type': 'limit'}
+2025-08-12 20:34:37,376 | INFO | 📋 STATO ORDINE #89441230: closed
+2025-08-12 20:34:37,377 | INFO | 💰 SALDO PRIMA: 8318.200000 XNY
+2025-08-12 20:34:37,377 | INFO | 💰 SALDO DOPO: 8318.200000 XNY
+2025-08-12 20:34:37,380 | INFO | ✅ ORDINE ESEGUITO - Session: session_20250812_202527
+2025-08-12 20:34:37,380 | INFO |    💰 Valore: 140.74 USDT
+2025-08-12 20:34:37,380 | INFO |    ⚡ Tempo: 1225ms
+2025-08-12 20:34:37,380 | INFO |    🎯 Fee Rate: 0.0010
+2025-08-12 20:34:37,380 | INFO |    🎁 GT Used: ✗
+2025-08-12 20:45:28,688 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 20:45:28,689 | INFO | ==============================
+2025-08-12 20:45:28,689 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 20:45:28,689 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 20:45:28,689 | INFO | 
+2025-08-12 20:45:34,648 | INFO | 🔍 Verifico disponibilità di XNY_USDT su Gate.io...
+2025-08-12 20:45:35,686 | INFO | ✅ XNY_USDT trovata e disponibile!
+2025-08-12 20:45:35,686 | INFO | 💰 Prezzo attuale: 0.01720200 USDT
+2025-08-12 20:45:47,363 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 20:51:13,239 | INFO | 📋 Ordine 25%: 0.000000 XNY ≈ 0.00 USDT [Session: session_20250812_205113]
+2025-08-12 20:51:40,188 | INFO | 📋 Ordine 25%: 0.000000 XNY ≈ 0.00 USDT [Session: session_20250812_205140]
+2025-08-12 20:57:56,882 | INFO | 
+➕ AGGIUNGI COIN A WALLET
+2025-08-12 20:57:56,883 | INFO | ==============================
+2025-08-12 20:57:56,883 | INFO | 💡 Inserisci il simbolo della coin senza '_USDT'
+2025-08-12 20:57:56,883 | INFO | 💡 Esempio: BTC, ETH, ADA, SOL, etc.
+2025-08-12 20:57:56,883 | INFO | 
+2025-08-12 20:58:00,603 | INFO | 🔍 Verifico disponibilità di ZKJ_USDT su Gate.io...
+2025-08-12 20:58:01,672 | INFO | ✅ ZKJ_USDT trovata e disponibile!
+2025-08-12 20:58:01,673 | INFO | 💰 Prezzo attuale: 0.24714000 USDT
+2025-08-12 20:58:14,083 | INFO | Usando dati manuali (API non disponibile)
+2025-08-12 21:05:56,624 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 21:05:56,624 | INFO |    Saldo attuale: 202.240000
+2025-08-12 21:05:56,624 | INFO |    Tranche attive: 1 di 6 totali
+2025-08-12 21:05:56,625 | INFO |    Capitale investito (tranche attive): 50.18 USDT
+2025-08-12 21:05:56,625 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 23:37:48,578 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 23:37:48,578 | INFO |    Saldo attuale: 0.057400
+2025-08-12 23:37:48,578 | INFO |    Tranche attive: 1 di 78 totali
+2025-08-12 23:37:48,578 | INFO |    Capitale investito (tranche attive): 0.00 USDT
+2025-08-12 23:37:48,578 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 23:38:42,182 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 3816.978775 XNY [Session: session_20250812_233842]
+2025-08-12 23:49:43,150 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 23:49:43,150 | INFO |    Saldo attuale: 0.057400
+2025-08-12 23:49:43,150 | INFO |    Tranche attive: 1 di 78 totali
+2025-08-12 23:49:43,150 | INFO |    Capitale investito (tranche attive): 0.00 USDT
+2025-08-12 23:49:43,150 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-12 23:50:00,617 | INFO | 📋 Ordine 25%: 0.014350 XNY ≈ 0.00 USDT [Session: session_20250812_235000]
+2025-08-12 23:50:07,138 | INFO | 📋 Ordine 25%: 0.014350 XNY ≈ 0.00 USDT [Session: session_20250812_235007]
+2025-08-12 23:50:18,577 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 3776.658576 XNY [Session: session_20250812_235018]
+2025-08-12 23:50:20,514 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 3776.658576 XNY [Session: session_20250812_235020]
+2025-08-12 23:50:21,603 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 3776.658576 XNY [Session: session_20250812_235021]
+2025-08-12 23:50:22,443 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 3776.658576 XNY [Session: session_20250812_235022]
+2025-08-12 23:50:23,140 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 3776.658576 XNY [Session: session_20250812_235023]
+2025-08-12 23:50:24,314 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 3776.658576 XNY [Session: session_20250812_235024]
+2025-08-12 23:50:25,019 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 3776.658576 XNY [Session: session_20250812_235025]
+2025-08-12 23:50:25,673 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 3776.658576 XNY [Session: session_20250812_235025]
+2025-08-12 23:50:27,471 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 3776.658576 XNY [Session: session_20250812_235027]
+2025-08-12 23:50:28,596 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 3776.658576 XNY [Session: session_20250812_235028]
+2025-08-12 23:50:29,709 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 3776.658576 XNY [Session: session_20250812_235029]
+2025-08-12 23:58:11,446 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-12 23:58:11,446 | INFO |    Saldo attuale: 0.000000
+2025-08-12 23:58:11,446 | INFO |    Tranche attive: 1 di 1 totali
+2025-08-12 23:58:11,446 | INFO |    Capitale investito (tranche attive): 0.00 USDT
+2025-08-12 23:58:11,446 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-13 00:01:25,784 | INFO | 📋 Ordine ACQUISTO 25%: 64.35 USDT → 386.860608 CRO [Session: session_20250813_000125]
+2025-08-13 00:01:32,184 | INFO | 🔄 Piazzando ordine: {'currency_pair': 'CRO_USDT', 'side': 'buy', 'amount': '386.83735358', 'price': '0.16636', 'type': 'limit'}

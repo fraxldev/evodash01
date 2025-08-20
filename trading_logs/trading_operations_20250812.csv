@@ -1,0 +1,5 @@
+timestamp,session_id,operation_type,trading_pair,percentage,quantity,price,total_value_usdt,order_id,order_status,fees_estimated,fee_rate,gt_points_used,balance_before,balance_after,price_source,execution_time_ms,user_action,notes
+2025-08-12T04:28:25.680040,session_20250812_042809,ORDER_EXECUTION,XNY_USDT,100,448.2,0.015799,7.08,893967594121,SUCCESS,0.007081,0.001,False,448.2,448.2,BOOK_OPTIMAL,827,EXECUTE_100%,Order executed successfully
+2025-08-12T20:34:37.377447,session_20250812_202527,ORDER_EXECUTION,XNY_USDT,100,8318.2,0.01692,140.74,894412305073,SUCCESS,0.140744,0.001,False,8318.2,8318.2,BOOK_OPTIMAL,1225,EXECUTE_100%,Order executed successfully
+2025-08-12T20:51:36.283145,session_20250812_205113,ORDER_ERROR,XNY_USDT,25,0,0,0,,ERROR,0,0,False,0,0,N/A,285,ERROR_25%,Saldo XNY insufficiente (0.000000)
+2025-08-13T00:01:32.552248,session_20250813_000125,ORDER_EXECUTION,CRO_USDT,25,386.83735358,0.16636,64.35,894501807440,SUCCESS,0,0,False,257.41704856,257.41704856,BOOK_OPTIMAL,558,EXECUTE_25%,Order executed successfully

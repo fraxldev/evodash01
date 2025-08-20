@@ -1,0 +1,12 @@
+2025-08-20 15:09:53,543 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-20 15:09:53,544 | INFO |    Saldo attuale: 403.211060
+2025-08-20 15:09:53,544 | INFO |    Tranche attive: 1 di 71 totali
+2025-08-20 15:09:53,544 | INFO |    Capitale investito (tranche attive): 40.72 USDT
+2025-08-20 15:09:53,544 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-20 15:11:04,872 | INFO | Dati portafoglio recuperati dall'API:
+2025-08-20 15:11:04,872 | INFO |    Saldo attuale: 27226.984519
+2025-08-20 15:11:04,872 | INFO |    Tranche attive: 5 di 165 totali
+2025-08-20 15:11:04,872 | INFO |    Capitale investito (tranche attive): 512.36 USDT
+2025-08-20 15:11:04,872 | INFO |    Solo le tranche che compongono il 100% del saldo attuale
+2025-08-20 15:12:53,491 | WARNING | 🚫 Coppia XNY_USDT BLOCCATA: Saldo insufficiente per minimo Gate.io: 5.75 > 0.02 USDT
+2025-08-20 15:12:53,492 | ERROR | 🚫 Operazione annullata - Vedere messaggi sopra

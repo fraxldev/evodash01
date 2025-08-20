@@ -1,0 +1,137 @@
+2025-08-12 18:18:53.330468: Errore Dashboard
+Traceback (most recent call last):
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 7932, in main_menu
+    wrapper(start_dashboard_wrapper, client, pair, buy_price, target_percent, amount, owned_coins, prezzi, quantita)
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/curses/__init__.py", line 94, in wrapper
+    return func(stdscr, *args, **kwds)
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 7576, in start_dashboard_wrapper
+    dashboard.run()
+    ~~~~~~~~~~~~~^^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 3094, in run
+    self._handle_buy_percentage_order(25)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 3428, in _handle_buy_percentage_order
+    self.current_session_id = self.trading_logger.log_user_action(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        action_type="USER_BUY_KEY_PRESS",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        target_value=usdt_amount  # Usa l'importo ajustato
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+TypeError: TradingLogger.log_user_action() got an unexpected keyword argument 'target_quantity'
+
+2025-08-12 18:26:47.760306: Errore Dashboard
+Traceback (most recent call last):
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 7940, in main_menu
+    wrapper(start_dashboard_wrapper, client, pair, buy_price, target_percent, amount, owned_coins, prezzi, quantita)
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/curses/__init__.py", line 94, in wrapper
+    return func(stdscr, *args, **kwds)
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 7584, in start_dashboard_wrapper
+    dashboard.run()
+    ~~~~~~~~~~~~~^^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 3102, in run
+    self._handle_buy_percentage_order(25)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 3436, in _handle_buy_percentage_order
+    self.current_session_id = self.trading_logger.log_user_action(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        action_type="USER_BUY_KEY_PRESS",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        target_value=usdt_amount  # Usa l'importo ajustato
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 1400, in log_user_action
+    self.logger.info(f"USER_ACTION | {pair} | {percentage}% | QTY:{quantity:.6f} | PRICE:{price:.6f} | VALUE:{total_value:.2f} USDT")
+                                                                                         ^^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+
+2025-08-12 20:51:44.933727: Errore Dashboard
+Traceback (most recent call last):
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 8024, in main_menu
+    wrapper(start_dashboard_wrapper, client, pair, buy_price, target_percent, amount, owned_coins, prezzi, quantita)
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/curses/__init__.py", line 94, in wrapper
+    return func(stdscr, *args, **kwds)
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 7668, in start_dashboard_wrapper
+    dashboard.run()
+    ~~~~~~~~~~~~~^^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 3102, in run
+    self._handle_buy_percentage_order(25)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 3447, in _handle_buy_percentage_order
+    self.current_session_id = self.trading_logger.log_user_action(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        action_type="USER_BUY_KEY_PRESS",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        target_value=usdt_amount  # Usa l'importo ajustato
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 1400, in log_user_action
+    self.logger.info(f"USER_ACTION | {pair} | {percentage}% | QTY:{quantity:.6f} | PRICE:{price:.6f} | VALUE:{total_value:.2f} USDT")
+                                                                                         ^^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+
+2025-08-12 20:58:20.972022: Errore Dashboard
+Traceback (most recent call last):
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 8029, in main_menu
+    wrapper(start_dashboard_wrapper, client, pair, buy_price, target_percent, amount, owned_coins, prezzi, quantita)
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/curses/__init__.py", line 94, in wrapper
+    return func(stdscr, *args, **kwds)
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 7673, in start_dashboard_wrapper
+    dashboard.run()
+    ~~~~~~~~~~~~~^^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 3108, in run
+    self._handle_buy_percentage_order(25)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 3454, in _handle_buy_percentage_order
+    self.current_session_id = self.trading_logger.log_user_action(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        action_type="USER_BUY_KEY_PRESS",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        target_value=usdt_amount  # Usa l'importo ajustato
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 1400, in log_user_action
+    self.logger.info(f"USER_ACTION | {pair} | {percentage}% | QTY:{quantity:.6f} | PRICE:{price:.6f} | VALUE:{total_value:.2f} USDT")
+                                                                                         ^^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+
+2025-08-12 21:06:03.738195: Errore Dashboard
+Traceback (most recent call last):
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 8050, in main_menu
+    wrapper(start_dashboard_wrapper, client, pair, buy_price, target_percent, amount, owned_coins, prezzi, quantita)
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/curses/__init__.py", line 94, in wrapper
+    return func(stdscr, *args, **kwds)
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 7694, in start_dashboard_wrapper
+    dashboard.run()
+    ~~~~~~~~~~~~~^^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 3108, in run
+    self._handle_buy_percentage_order(25)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 3454, in _handle_buy_percentage_order
+    self.current_session_id = self.trading_logger.log_user_action(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        action_type="USER_BUY_KEY_PRESS",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        target_value=usdt_amount  # Usa l'importo ajustato
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/fraxl/Scrivania/lavoro/progetti/python/evodash01/dash01_refactored.py", line 1400, in log_user_action
+    self.logger.info(f"USER_ACTION | {pair} | {percentage}% | QTY:{quantity:.6f} | PRICE:{price:.6f} | VALUE:{total_value:.2f} USDT")
+                                                                                         ^^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+
